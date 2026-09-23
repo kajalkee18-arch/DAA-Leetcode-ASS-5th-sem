@@ -1,0 +1,9 @@
+<!-- Majority Element — #169 Find the element that appears more than n/2 times. -->
+
+class Solution {
+    public int majorityElement(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        return nums[n/2];
+    }
+}
