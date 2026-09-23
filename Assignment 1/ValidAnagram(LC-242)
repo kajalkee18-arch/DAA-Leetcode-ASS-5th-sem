@@ -1,4 +1,4 @@
-<!-- Valid Anagram — (LC-242) --> Check whether two strings are anagrams. -->
+ Valid Anagram — (LC-242) --> Check whether two strings are anagrams. 
 
 
 import java.util.Arrays;
