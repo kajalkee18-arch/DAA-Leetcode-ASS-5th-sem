@@ -1,4 +1,4 @@
-<!-- Two Sum — #1 --> Given an integer array nums and an integer target, return the indices of the two numbers that add up to target. -->
+Two Sum — #1  Given an integer array nums and an integer target, return the indices of the two numbers that add up to target. 
 
 
 class Solution {
